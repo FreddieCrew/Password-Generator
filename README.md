@@ -10,4 +10,4 @@ Generate strong passwords with just a few clicks.
 6. Now you can use the program and feel free to modify the code as you wish!
  
 
-Outro: Make sure you are in the root directory of the cloned repository before running the Python command to start the program.
+Note: Make sure you are in the root directory of the cloned repository before running the Python command to start the program.
